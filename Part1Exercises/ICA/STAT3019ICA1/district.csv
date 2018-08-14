@@ -1,0 +1,171 @@
+"","ID","MapNumber","DistrictName","Region","PAM7","K11","M5"
+"1",1,1,"City-Ost","InnenstadtWest",1,11,1
+"2",2,2,"City-West","InnenstadtWest",2,11,1
+"3",3,3,"Cityring-Ost","InnenstadtWest",1,4,1
+"4",4,4,"Cityring-West","InnenstadtWest",2,4,1
+"5",5,11,"Westfalenhalle","InnenstadtWest",3,9,1
+"6",6,12,"Sudwestfriedhof","InnenstadtWest",4,7,3
+"7",7,13,"Tremonia","InnenstadtWest",4,1,1
+"8",8,21,"Westpark","InnenstadtWest",1,4,1
+"9",9,22,"Dorstfelder Brucke","InnenstadtWest",5,5,1
+"10",10,23,"Union","InnenstadtWest",2,8,2
+"11",11,31,"Hallerey","InnenstadtWest",1,4,2
+"12",12,32,"Dorstfeld","InnenstadtWest",1,4,1
+"13",13,33,"Oberdorstfeld","InnenstadtWest",5,9,1
+"14",14,41,"Hafen","InnenstadtNord",6,2,1
+"15",15,42,"Hafen-Sud","InnenstadtNord",1,11,1
+"16",16,43,"Hafen-Sudost","InnenstadtNord",6,2,1
+"17",17,51,"Nordmarkt-Sud","InnenstadtNord",6,2,1
+"18",18,52,"Nordmarkt-Sudost","InnenstadtNord",1,2,1
+"19",19,53,"Nordmarkt-West","InnenstadtNord",6,2,1
+"20",20,54,"Nordmarkt-Ost","InnenstadtNord",6,2,1
+"21",21,61,"Borsigplatz","InnenstadtNord",6,2,1
+"22",22,62,"Westfalenhutte","InnenstadtNord",1,2,1
+"23",23,71,"Kaiserbrunnen","InnenstadtOst",3,9,1
+"24",24,72,"Funkenburg","InnenstadtOst",3,9,1
+"25",25,73,"Korne","InnenstadtOst",3,9,1
+"26",26,81,"Westfalendamm-Nord","InnenstadtOst",4,11,1
+"27",27,82,"Gartenstadt-Nord","InnenstadtOst",7,1,1
+"28",28,83,"Westfalendamm-Sud","InnenstadtOst",4,1,1
+"29",29,84,"Gartenstadt-Sud","InnenstadtOst",4,7,3
+"30",30,91,"Ruhrallee West","InnenstadtOst",3,9,1
+"31",31,92,"Ruhrallee Ost","InnenstadtOst",4,1,1
+"32",32,111,"Brechten-Nord","Eving",7,3,2
+"33",33,112,"Brechten-Sud","Eving",4,7,3
+"34",34,121,"Niedereving","Eving",1,4,3
+"35",35,122,"Eving","Eving",1,4,2
+"36",36,123,"Obereving","Eving",6,10,1
+"37",37,124,"Kemminghausen","Eving",2,8,3
+"38",38,130,"Holthausen","Eving",2,8,5
+"39",39,140,"Lindenhorst","Eving",5,5,1
+"40",40,211,"Altenderne","Scharnhorst",2,8,4
+"41",41,212,"Derne","Scharnhorst",5,5,2
+"42",42,221,"Grevel","Scharnhorst",2,8,5
+"43",43,222,"Hostedde","Scharnhorst",2,8,4
+"44",44,231,"Franz-Zimmer-Siedlung","Scharnhorst",4,7,3
+"45",45,232,"Kirchderne","Scharnhorst",2,8,4
+"46",46,241,"Kurl-Nord","Scharnhorst",2,8,4
+"47",47,242,"Kurl-Sud","Scharnhorst",4,7,3
+"48",48,243,"Husen-Nord","Scharnhorst",2,8,5
+"49",49,244,"Husen-Sud","Scharnhorst",1,4,2
+"50",50,251,"Lanstrop-Neu","Scharnhorst",1,4,3
+"51",51,252,"Lanstrop-Alt","Scharnhorst",2,8,4
+"52",52,261,"MSA-Siedlung","Scharnhorst",4,1,1
+"53",53,262,"Alt-Scharnhorst","Scharnhorst",1,4,2
+"54",54,263,"Westholz","Scharnhorst",2,8,3
+"55",55,270,"Scharnhorst-Ost","Scharnhorst",6,10,1
+"56",56,311,"Asselburg","Brackel",4,7,3
+"57",57,312,"Asseln Dorf","Brackel",2,8,4
+"58",58,313,"Asseln Hellweg","Brackel",2,8,4
+"59",59,314,"Kolonie Holstein","Brackel",4,7,2
+"60",60,315,"Kolonie Neuasseln","Brackel",2,8,5
+"61",61,321,"Brackeler Feld","Brackel",4,7,3
+"62",62,322,"Westheck","Brackel",4,1,2
+"63",63,323,"Reichshof","Brackel",4,4,3
+"64",64,324,"Brackel Dorf","Brackel",4,7,3
+"65",65,325,"Brackel Hellweg","Brackel",2,8,4
+"66",66,326,"Knappschaftskrankenhaus","Brackel",4,7,3
+"67",67,327,"Hauptfriedhof","Brackel",4,7,3
+"68",68,328,"Funkturmsiedlung","Brackel",4,7,3
+"69",69,331,"Wambel Dorf","Brackel",4,11,1
+"70",70,332,"Breierspfad","Brackel",4,7,3
+"71",71,333,"Pferderennbahn","Brackel",2,8,2
+"72",72,341,"Wickeder Feld","Brackel",7,3,1
+"73",73,342,"Wickede Dorf","Brackel",4,1,2
+"74",74,343,"Dollersweg","Brackel",4,7,2
+"75",75,344,"Flughafen","Brackel",2,11,1
+"76",76,411,"Aplerbecker Strasse","Aplerbeck",4,7,3
+"77",77,412,"Marsbruchstrasse","Aplerbeck",1,6,1
+"78",78,413,"Aplerbecker Markt","Aplerbeck",1,4,2
+"79",79,414,"Vieselerhofstrasse","Aplerbeck",4,7,3
+"80",80,415,"Aplerbeck Bahnhof Sud","Aplerbeck",4,7,3
+"81",81,416,"Aplerbecker Mark","Aplerbeck",7,3,1
+"82",82,417,"Schwerter Strasse","Aplerbeck",2,8,3
+"83",83,421,"Berghofen Dorf","Aplerbeck",7,3,1
+"84",84,422,"Ostkirchstrasse","Aplerbeck",4,7,3
+"85",85,423,"Berghofer Mark","Aplerbeck",4,7,2
+"86",86,431,"Schuren-Neu","Aplerbeck",4,7,3
+"87",87,432,"Schuren-Alt","Aplerbeck",5,5,2
+"88",88,441,"Solde-Nord","Aplerbeck",4,1,2
+"89",89,442,"Solde-Sud","Aplerbeck",2,7,3
+"90",90,451,"Solderholz","Aplerbeck",4,3,1
+"91",91,452,"Lichtendorf","Aplerbeck",4,7,3
+"92",92,511,"Benninghofen","Horde",4,1,2
+"93",93,512,"Loh","Horde",7,3,1
+"94",94,521,"Schulzentrum Hacheney","Horde",2,8,5
+"95",95,522,"Pferdebachtal","Horde",2,8,4
+"96",96,531,"Remberg","Horde",3,9,1
+"97",97,532,"Horde","Horde",1,4,2
+"98",98,533,"Phonix-West","Horde",1,4,2
+"99",99,534,"Brucherhof","Horde",5,9,1
+"100",100,535,"Clarenberg","Horde",1,4,1
+"101",101,541,"Hochsten","Horde",4,7,3
+"102",102,542,"Holzen","Horde",7,3,1
+"103",103,551,"Syburg","Horde",2,8,4
+"104",104,552,"Buchholz","Horde",2,8,5
+"105",105,561,"Wellinghofen","Horde",4,7,3
+"106",106,562,"Durchstrasse","Horde",4,3,3
+"107",107,570,"Wichlinghofen","Horde",4,7,3
+"108",108,611,"Schonau","Hombruch",2,8,4
+"109",109,612,"Ostenbergstrasse","Hombruch",2,8,5
+"110",110,613,"Kruckenweg","Hombruch",4,7,3
+"111",111,614,"Baroper Markt","Hombruch",2,8,2
+"112",112,615,"Zechenplatz","Hombruch",2,8,5
+"113",113,620,"Barop","Hombruch",4,7,3
+"114",114,631,"Brunninghausen","Hombruch",2,8,4
+"115",115,632,"Renninghausen","Hombruch",4,7,2
+"116",116,641,"Eichlinghofen","Hombruch",4,1,1
+"117",117,642,"Universitat","Hombruch",4,4,1
+"118",118,643,"Salingen","Hombruch",2,8,5
+"119",119,651,"Hombruch","Hombruch",5,5,2
+"120",120,652,"Deutsch-Luxemburger-Strasse","Hombruch",4,1,1
+"121",121,653,"Siedlung Rotkehlchenweg","Hombruch",2,8,4
+"122",122,661,"Persebeck","Hombruch",4,7,3
+"123",123,662,"Kruckel","Hombruch",2,8,4
+"124",124,663,"Schnee","Hombruch",2,8,4
+"125",125,671,"Grossholthausen","Hombruch",2,8,5
+"126",126,672,"Kirchhorde-Nord","Hombruch",2,8,4
+"127",127,673,"Kleinholthausen","Hombruch",2,8,2
+"128",128,674,"Kirchhorde-Ost","Hombruch",4,7,3
+"129",129,675,"Kirchhorde-West","Hombruch",4,7,3
+"130",130,676,"Lottringhausen-Nord","Hombruch",2,8,4
+"131",131,677,"Lottringhausen-Sud","Hombruch",2,8,4
+"132",132,678,"Schanze","Hombruch",2,8,5
+"133",133,681,"Rombergpark","Hombruch",2,8,2
+"134",134,682,"Lucklemberg","Hombruch",7,3,1
+"135",135,690,"Menglinghausen","Hombruch",1,4,3
+"136",136,710,"Bovinghausen","Lutgendortmund",5,5,2
+"137",137,720,"Kley","Lutgendortmund",4,7,3
+"138",138,731,"Holte-Kreta","Lutgendortmund",2,8,4
+"139",139,732,"Deipenbeck","Lutgendortmund",4,1,2
+"140",140,733,"Lutgendortmund-Mitte","Lutgendortmund",5,5,2
+"141",141,734,"Lutgendortmund-Ost","Lutgendortmund",5,5,2
+"142",142,735,"Lutgendortmund-West","Lutgendortmund",2,8,4
+"143",143,736,"Somborn","Lutgendortmund",2,8,5
+"144",144,741,"Germania","Lutgendortmund",1,4,2
+"145",145,742,"Marten","Lutgendortmund",5,5,2
+"146",146,750,"Oespel","Lutgendortmund",4,1,1
+"147",147,760,"Westrich","Lutgendortmund",1,7,3
+"148",148,810,"Deusen","Huckarde",1,4,2
+"149",149,821,"Mailoh","Huckarde",5,5,2
+"150",150,822,"Erpinghofsiedlung","Huckarde",1,4,3
+"151",151,823,"Wischlingen","Huckarde",2,8,4
+"152",152,824,"Huckarde","Huckarde",1,4,2
+"153",153,825,"Insterburgsiedlung","Huckarde",1,4,3
+"154",154,831,"Jungferntal","Huckarde",1,1,2
+"155",155,832,"Rahm","Huckarde",2,8,4
+"156",156,841,"Kirchlinde-Alt","Huckarde",1,4,2
+"157",157,842,"Siedlung Siepmannstrasse","Huckarde",1,4,3
+"158",158,843,"Hangeney","Huckarde",5,5,2
+"159",159,910,"Bodelschwingh","Mengede",5,5,2
+"160",160,921,"Bruninghausen/Knepper","Mengede",2,8,5
+"161",161,922,"Mengeder Heide","Mengede",4,7,3
+"162",162,923,"Mengede-Mitte","Mengede",5,5,2
+"163",163,924,"Alte Kolonie","Mengede",1,5,2
+"164",164,930,"Nette","Mengede",5,5,2
+"165",165,940,"Oestrich","Mengede",5,5,2
+"166",166,951,"Groppenbruch","Mengede",2,8,5
+"167",167,952,"Schwieringhausen","Mengede",2,8,5
+"168",168,953,"Ellinghausen","Mengede",2,8,5
+"169",169,954,"Niedernette","Mengede",2,8,5
+"170",170,960,"Westerfilde","Mengede",5,5,2
